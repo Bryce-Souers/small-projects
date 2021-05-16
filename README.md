@@ -1,5 +1,4 @@
 # small-projects
-Collection of small programs to practice concepts
+Collection of small programs to practice concepts.
 
-Each folder contains a Makefile.
-make run
+Just use ```make run``` for each project.
